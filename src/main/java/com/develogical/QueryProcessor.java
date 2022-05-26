@@ -9,9 +9,7 @@ public class QueryProcessor {
                     "writer in the English language and the world's pre-eminent dramatist.";
         }
 
-        System.out.print(query);
-        return "";
-
-
+        return "ICSE_HAHAHA" + query;
+        // return "";
     }
 }
